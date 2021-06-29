@@ -1,0 +1,7 @@
+Listing Your Tags
+
+Listing the existing tags in Git is straightforward. Just type git tag (with optional -l or --list):
+
+This command lists the tags in alphabetical order; the order in which they are displayed has no real importance.
+
+You can also search for tags that match a particular pattern. The Git source repo, for instance, contains more than 500 tags. If you’re interested only in looking at the 1.8.5 series, you can run this:
