@@ -1,0 +1,5 @@
+When creating a new project on your local machine using git, you'll first create a new repository (or often, 'repo', for short). 
+
+To use git we'll be using the terminal. If you don't have much experience with the terminal and basic commands, check out this tutorial (If you don’t want/ need a short history lesson, skip to step three.)
+
+To begin, open up a terminal and move to where you want to place the project on your local machine using the cd (change directory) command. For example, if you have a 'projects' folder on your desktop, you'd do something like:
