@@ -1,0 +1,1 @@
+I am trying to authenticate with GitHub using a personal access token. In the help files at github, it states to use the cURL method to authenticate (https://help.github.com/articles/creating-an-access-token-for-command-line-use). I have tried this, but I still cannot push to GitHub. Please note, I am trying to push from an unauthenticated server (Travis-CI).
