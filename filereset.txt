@@ -1,0 +1,1 @@
+Before moving on to more specialized tools, let’s talk about the Git reset and checkout commands. These commands are two of the most confusing parts of Git when you first encounter them. They do so many things that it seems hopeless to actually understand them and employ them properly. For this, we recommend a simple metaphor
