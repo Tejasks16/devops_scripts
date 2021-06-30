@@ -1,0 +1,3 @@
+dd a file to the staging environment using the git add command. 
+
+If you rerun the git status command, you'll see that git has added the file to the staging environment (notice the "Changes to be committed" line). 

@@ -1,0 +1,6 @@
+
+w that you've made a new commit, let's try something a little more advanced.
+
+Say you want to make a new feature but are worried about making changes to the main project while developing the feature. This is where git branches come in. 
+
+Branches allow you to move back and forth between 'states' of a project. Official git docs describe branches this way: ‘A branch in Git is simply a lightweight movable pointer to one of these commits.’ For instance, if you want to add a new page to your website you can create a new branch just for that page without affecting the main part of the project. Once you're done with the page, you can merge your changes from your branch into the primary branch. When you create a new branch, Git keeps track of which commit your branch 'branched' off of, so it knows the history behind all the files. 
